@@ -1,2 +1,2 @@
 def name():
-    name = 'Apurv'
+    print('Apurv')
